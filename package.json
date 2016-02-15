@@ -1,0 +1,27 @@
+{
+  "name": "javascript-benchmark",
+  "version": "1.0.0",
+  "description": "Collection of javascript benchmarks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnhof/javascript-benchmark.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnhof/javascript-benchmark/issues"
+  },
+  "homepage": "https://github.com/johnhof/javascript-benchmark#readme",
+  "dependencies": {
+    "benchmark": "^2.1.0",
+    "bluebird": "^3.3.1",
+    "co": "^4.6.0",
+    "craydent": "^0.5.11",
+    "moment": "^2.11.2",
+    "q": "^1.4.1"
+  }
+}
